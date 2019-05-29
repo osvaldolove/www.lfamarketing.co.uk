@@ -3163,8 +3163,8 @@ body.landing #main {
 
 /* CTA */
 #cta {
-  background: #7fcdb8;
-  color: #dff3ed;
+  background: #666;
+  color: #d9d9d9;
   padding: 3.5em 0 4em 0;
   text-align: center;
 }
@@ -3190,7 +3190,7 @@ body.landing #main {
   -webkit-box-shadow: none;
           box-shadow: none;
   background: #fff;
-  color: #7fcdb8;
+  color: #666;
 }
 
 #cta input[type="text"],
